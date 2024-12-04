@@ -11,7 +11,7 @@ function LandingPage() {
                         <div className='w-fit flex items-end overflow-hidden'>
                             {index === 1 && (
                                 <motion.div initial={{ width: 0 }} animate={{width: "8vw"}} transition={{ ease: [0.76, 0, 0.24, 1], duration: 1}} className='ml-2.5 rounded-md w-[8vw] h-[5.7vw] relative top-1.25 '>
-                                    <img className='w-full h-full bg-cover rounded-xl ' src="./vibe_1st.avif" alt="" />
+                                    <img className='w-full h-full bg-cover rounded-xl ' src="./vibe_1st.webp" alt="" />
                                 </motion.div>)}
                             <h1 className='uppercase text-[8vw] leading-[7vw] tracking-tighter font-medium'>
                                 {item}</h1>
@@ -25,7 +25,7 @@ function LandingPage() {
                 ))}
                 <div className="start">
                     <div className='px-4 py-2 border-[1.5px] rounded-full border-zinc-600 text-sm uppercase'>Start the Project</div>
-                    {/* <div className='w-3 h-3 rounded-full'></div> */}
+                    
                 </div>
             </div>
 
