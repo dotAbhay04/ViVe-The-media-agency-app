@@ -42,7 +42,7 @@ function Featured() {
                             </h1>
                             <img
                                 className="w-full h-full bg-cover"
-                                src="./brand1.webp"
+                                src="/brand1.webp"
                                 alt="Projects"
                             />
                         </div>
@@ -70,7 +70,7 @@ function Featured() {
                             </h1>
                             <img
                                 className="w-full h-full bg-cover"
-                                src="./Brand2.webp"
+                                src="/Brand2.webp"
                                 alt="Projects"
                             />
                         </div>

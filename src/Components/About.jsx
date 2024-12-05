@@ -13,7 +13,7 @@ function About() {
 
                 </div>
                 <div className='w-1/2 h-[60vh] rounded-lg'>
-                <img src="./pic1.jpg" alt="VisionVibe_work" />
+                <img src="/pic1.jpg" alt="VisionVibe_work" />
                 </div>
             </div>
         </div>
